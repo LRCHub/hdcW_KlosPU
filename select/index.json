@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "LAVALAVA",
+  "base_artist": "Number_i",
+  "createdAt": "2025-12-03T06:13:14.199243Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wcb wasafi ft Diamond Platnumz & Mbosso & Lavalava - JIBEBE (Official Video)",
+      "artist": "Mbosso",
+      "has_synced": true,
+      "path": "select/01_Wcb_wasafi_ft_Diamond_Platnumz_&_Mbosso_&_Lavalava_-_JIBEBE_(Official_Video)_Mbosso.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LAVALAVA",
+      "artist": "Number_i",
+      "has_synced": false,
+      "path": "select/pl_01_LAVALAVA_Number_i.txt"
+    }
+  ]
+}
